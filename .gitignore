@@ -114,3 +114,10 @@ ENV/
 *.model
 
 !documentation/assets/scribble_example.png
+
+nnUNet_preprocessed
+nnUNet_raw
+nnUNet_results
+
+hello
+inference
